@@ -1,19 +1,31 @@
-👋 ¡Hola! Soy Amaury Cardinale
-🎓 Estudiante de Ingeniería Civil Informática en la Universidad Autónoma de Chile.
+```javascript
+const amauryCardinale = {
+    education: {
+        degree: "Estudiante de Ingeniería Civil Informática",
+        university: "Universidad Autónoma de Chile"
+    },
+    askMeAbout: ["machine learning", "web development", "software engineering"],
+    technologies: {
+        programmingLanguages: ["Python", "Java", "SQL"],
+        frameworks: ["Django", "Pandas", "TensorFlow"],
+        tools: ["Git"],
+        database: ["PostgreSQL"],
+        frontEnd: ["HTML", "CSS", "JavaScript"]
+    },
+    projects: [
+        {
+            name: "Registro Clínico Electrónico Simulado",
+            description: "Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro.",
+            technologies: ["Python", "Django", "PostgreSQL", "JavaScript", "HTML", "CSS"]
+        },
+        {
+            name: "Mangeeks: Tienda de Mangas",
+            description: "Aplicación web para la venta de libros tipo manga, diseñada con funcionalidades que mejoran la experiencia del usuario y simplifican la gestión de productos.",
+            technologies: ["Python", "Django"]
+        }
+    ]
+};
 
-🛠️ Tecnologías que manejo
-Lenguajes de programación: Python, Java, SQL.
-Frameworks: Django, Pandas, TensorFlow.
-Herramientas: Git.
+yo.proyectos_destacados()
 
-💻 Proyectos Destacados
 
-🚑 Registro Clínico Electrónico Simulado (Privado)
-Descripción:
-Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro, ayudando a mejorar habilidades antes de prácticas reales.
-Tecnologías usadas: Python, Django, PostgreSQL, JavaScript, HTML, CSS.
-
-📚 Mangeeks: Tienda de Mangas (Privado)
-Descripción:
-Aplicación web para la venta de libros tipo manga, diseñada con funcionalidades que mejoran la experiencia del usuario y simplifican la gestión de productos.
-Tecnologías usadas: Python, Django.
