@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 ¡Hola! Soy Amaury Cardinale
+🎓 Estudiante de Ingeniería Civil Informática en la Universidad Autónoma de Chile.
+🌟 Apasionado por Machine Learning y Desarrollo Web.
 
-<!--
-**Amaury1414/Amaury1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías que manejo
+Lenguajes de programación: Python, Java, SQL.
+Frameworks: Django, Pandas, TensorFlow.
+Herramientas: Git.
 
-Here are some ideas to get you started:
+💻 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚑 Registro Clínico Electrónico Simulado (Privado)
+Descripción:
+Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro, ayudando a mejorar habilidades antes de prácticas reales.
+Tecnologías usadas: Python, Django, PostgreSQL, JavaScript, HTML, CSS.
+Demo del proyecto
+
+📚 Mangeeks: Tienda de Mangas (Privado)
+Descripción:
+Aplicación web para la venta de libros tipo manga, diseñada con funcionalidades que mejoran la experiencia del usuario y simplifican la gestión de productos.
+Tecnologías usadas: Python, Django.
