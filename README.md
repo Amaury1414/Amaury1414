@@ -26,6 +26,5 @@ const amauryCardinale = {
     ]
 };
 
-yo.proyectos_destacados()
 
 
