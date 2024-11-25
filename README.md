@@ -1,6 +1,5 @@
 👋 ¡Hola! Soy Amaury Cardinale
 🎓 Estudiante de Ingeniería Civil Informática en la Universidad Autónoma de Chile.
-🌟 Apasionado por Machine Learning y Desarrollo Web.
 
 🛠️ Tecnologías que manejo
 Lenguajes de programación: Python, Java, SQL.
@@ -13,7 +12,6 @@ Herramientas: Git.
 Descripción:
 Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro, ayudando a mejorar habilidades antes de prácticas reales.
 Tecnologías usadas: Python, Django, PostgreSQL, JavaScript, HTML, CSS.
-Demo del proyecto
 
 📚 Mangeeks: Tienda de Mangas (Privado)
 Descripción:
