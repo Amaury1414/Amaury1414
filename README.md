@@ -16,8 +16,7 @@ const amauryCardinale = {
         {
             name: "Registro Clínico Electrónico Simulado",
             description: "Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro.",
-            technologies: ["Python", "Django", "PostgreSQL", "JavaScript", "HTML", "CSS"],
-            demo: "https://www.youtube.com/watch?v=9U9g4giNjec&ab_channel=Amaury"
+            technologies: ["Python", "Django", "PostgreSQL", "JavaScript", "HTML", "CSS"]
         },
         {
             name: "Mangeeks: Tienda de Mangas",
