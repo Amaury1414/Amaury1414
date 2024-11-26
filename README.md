@@ -8,8 +8,8 @@ const amauryCardinale = {
     technologies: {
         programmingLanguages: ["Python", "Java", "SQL"],
         frameworks: ["Django", "Pandas", "TensorFlow"],
-        tools: ["Git"],
-        database: ["PostgreSQL"],
+        tools: ["Git", "Power BI"],
+        database: ["PostgreSQL", "MongoDB"],
         frontEnd: ["HTML", "CSS", "JavaScript"]
     },
     projects: [
