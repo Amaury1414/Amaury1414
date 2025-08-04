@@ -11,6 +11,7 @@ const amauryCardinale = {
         tools: ["Git", "Power BI", "Figma", "UML"],
         database: ["PostgreSQL", "MongoDB"],
         frontEnd: ["HTML", "CSS", "JavaScript"]
+        DevOps: ["Dockers"]
     },
     projects: [
         {
