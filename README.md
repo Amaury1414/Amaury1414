@@ -1,31 +1,73 @@
-```javascript
 const amauryCardinale = {
+    name: "Amaury Sánchez Cardinale",
+    role: "Software Engineer & Full Stack Developer",
+    location: "Chile",
+
     education: {
-        degree: "Estudiante de Ingeniería Civil Informática",
+        degree: "Ingeniero Civil Informático",
+        academicGrade: "Licenciado en Ciencias de la Ingeniería",
         university: "Universidad Autónoma de Chile"
     },
-    askMeAbout: ["machine learning", "web development", "software engineering"],
+
+    experience: [
+        { 
+            company: "Ematel S.A.", 
+            role: "Backend & IoT Developer",
+            focus: "Desarrollo de APIs REST, despliegue de servidores Linux, integración con ChirpStack y ThingsBoard."
+        },
+        { 
+            company: "Inteligencia Digital Seven SpA (ID7)", 
+            role: "Software Engineer",
+            focus: "Integración de IA, recolección de evidencia forense, automatización y bases de datos."
+        }
+    ],
+
+    askMeAbout: [
+        "Software Architecture",
+        "Data Engineering & ETL",
+        "AI Integrations & OCR",
+        "IoT Telemetry (LoRa, ChirpStack)",
+        "System Deployment (Docker, Nginx)",
+        "Fraud Prevention & Web Scraping"
+    ],
+
     technologies: {
-        programmingLanguages: ["Python", "Java", "SQL"],
-        frameworks: ["Django", "Pandas", "TensorFlow"],
-        tools: ["Git", "Power BI", "Figma", "UML"],
-        database: ["PostgreSQL", "MongoDB"],
-        frontEnd: ["HTML", "CSS", "JavaScript"],
-        devOps: ["Dockers"]
+        languages: ["Python", "JavaScript", "TypeScript", "SQL", "PHP", "Java"],
+        backend: ["Django", "Node.js", "Express", "Prisma", "REST APIs"],
+        frontend: ["HTML", "CSS", "Tailwind CSS", "Flutter"],
+        databases: ["PostgreSQL", "TimescaleDB", "MongoDB", "Cassandra"],
+        infrastructureAndDevOps: ["Docker", "Linux (VPS)", "Nginx", "Git", "MinIO (WORM Storage)"],
+        dataAndAI: ["Pandas", "NumPy", "TensorFlow", "OCR", "Anthropic Claude", "OpenAI GPT", "Google Gemini"],
+        iot: ["LoRa", "ChirpStack", "ThingsBoard", "ESP32", "MQTT"]
     },
+
     projects: [
         {
-            name: "Registro Clínico Electrónico Simulado",
-            description: "Aplicación web diseñada para estudiantes de medicina y áreas de salud. Proporciona una plataforma simulada para practicar registros clínicos electrónicos en un entorno seguro.",
-            technologies: ["Python", "Django", "PostgreSQL", "JavaScript", "HTML", "CSS"]
+            name: "SENTINEL",
+            description: "Plataforma multi-fuente de web scraping y recolección de evidencia forense para la investigación de siniestros vehiculares. Arquitectura orientada a la inmutabilidad de datos y automatización con IA.",
+            technologies: ["Python", "Web Scraping", "OCR", "MinIO", "AI APIs"]
         },
         {
-            name: "Mangeeks: Tienda de Mangas",
-            description: "Aplicación web para la venta de libros tipo manga, diseñada con funcionalidades que mejoran la experiencia del usuario y simplifican la gestión de productos.",
-            technologies: ["Python", "Django"]
+            name: "EMATEL API & IoT Telemetry",
+            description: "Backend y orquestación de servicios para telemetría IoT. Configuración de proxies inversos, gestión de certificados SSL y despliegue de contenedores para comunicación de sensores.",
+            technologies: ["Node.js", "Prisma", "PostgreSQL", "Docker", "Nginx", "ChirpStack", "ThingsBoard"]
+        },
+        {
+            name: "OfertazaChile",
+            description: "Desarrollo de plataforma e-commerce y marketing de afiliados con enfoque en dispositivos Sleep Tech. Estructuración de layouts, metodologías de reseña de productos y estrategias SEO.",
+            technologies: ["PHP", "Composer", "Laragon", "Tailwind CSS"]
         }
-    ]
+    ],
+
+    currentlyLearning: [
+        "Machine Learning Operations (MLOps)", 
+        "Data Science Analytics", 
+        "Advanced Cloud Architecture"
+    ],
+
+    contact: {
+        email: "amaurycardinale14@gmail.com",
+        linkedin: "linkedin.com/in/TU-USUARIO",
+        github: "github.com/TU-USUARIO"
+    }
 };
-
-
-
